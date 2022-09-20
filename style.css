@@ -1,0 +1,42 @@
+.slide{
+    margin-left: 11px;
+    margin-right: 11px;
+}
+.slide img{
+    height: 600px;
+    width: 100%;
+}
+
+.card{
+    margin-top: 10px;
+}
+.image-fluid{
+    height: 420px;
+}
+.container{
+    background-size: contain;
+}
+.form-control{
+    margin-top: 10px;
+}
+.ide{
+    text-align: left;
+    margin-top: 2px;
+}
+.btn-success{
+    background-color: rgb(34, 169, 34);
+}
+.formulario{
+    text-align: center;
+    width : 600px;
+    padding: 0;
+    margin-left: 450px;
+    box-sizing: content-box;
+    
+}
+.footer{
+    position:absolute;
+    background-color: aqua;
+}  
+
+
